@@ -7,3 +7,4 @@ Normal Text Helvetica. Lorem ipsum dummy text.
 * list item 1
 * list item 2
 * list item 3 
+![](lavo2.png)
